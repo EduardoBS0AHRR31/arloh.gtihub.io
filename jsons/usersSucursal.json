@@ -1,0 +1,55 @@
+{
+    "user": [
+        {
+            "username": "23080001ADMC",
+            "password": "23080001ADMC",
+            "tipo":"admin"
+        },
+        {
+            "username": "23080002ADMS",
+            "password": "23080002ADMS",
+            "tipo":"admin"
+        },
+        {
+            "username": "23080003ADMS",
+            "password": "23080003ADMS",
+            "tipo":"admin"
+        },
+        {
+            "username": "23080004ADMS",
+            "password": "23080004ADMS",
+            "tipo":"admin"
+        },
+        {
+            "username": "23080005EMPS",
+            "password": "23080005EMPS",
+            "tipo":"usuario"
+        },
+        {
+            "username": "23080006EMPS",
+            "password": "23080006EMPS",
+            "tipo":"usuario"
+        },
+        {
+            "username": "23080007EMPS",
+            "password": "23080007EMPS",
+            "tipo":"admin"
+        },
+        {
+            "username": "23080008EMPS",
+            "password": "23080008EMPS",
+            "tipo":"usuario"
+        },
+        {
+            "username": "23080009EMPS",
+            "password": "23080009EMPS",
+            "tipo":"usuario"
+        },
+        {
+            "username": "23080010EMPS",
+            "password": "23080010EMPS",
+            "tipo":"usuario"
+        }
+    ]
+    
+}
